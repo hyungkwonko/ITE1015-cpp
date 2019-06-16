@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pkwon/2014018940/hw5-2copy/Get_Sum_Diff/get_sum_diff.cc
+stdio.h
+-
+iostream
+-
+

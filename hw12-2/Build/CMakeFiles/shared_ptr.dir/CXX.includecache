@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pkwon/2014018940/hw12-2/shared_ptr.cc
+shared_ptr.h
+/home/pkwon/2014018940/hw12-2/shared_ptr.h
+
+/home/pkwon/2014018940/hw12-2/shared_ptr.h
+iostream
+-
+memory
+-
+
+/home/pkwon/2014018940/hw12-2/shared_ptr_main.cc
+shared_ptr.h
+/home/pkwon/2014018940/hw12-2/shared_ptr.h
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pkwon/2014018940/hw5-1copy/Circle/circle.cc
+iostream
+-
+
+/home/pkwon/2014018940/hw5-1copy/Circle/circle.h
+
+/home/pkwon/2014018940/hw5-1copy/Circle/circle_main.cc
+iostream
+-
+circle.h
+/home/pkwon/2014018940/hw5-1copy/Circle/circle.h
+

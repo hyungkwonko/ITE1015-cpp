@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pkwon/2014018940/hw12-2/linked_list.cc
+linked_list.h
+/home/pkwon/2014018940/hw12-2/linked_list.h
+
+/home/pkwon/2014018940/hw12-2/linked_list.h
+iostream
+-
+
+/home/pkwon/2014018940/hw12-2/linked_list_main.cc
+linked_list.h
+/home/pkwon/2014018940/hw12-2/linked_list.h
+

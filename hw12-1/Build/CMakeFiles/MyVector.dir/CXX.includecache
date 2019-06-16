@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pkwon/2014018940/hw12-1/MyVector.cc
+MyVector.h
+/home/pkwon/2014018940/hw12-1/MyVector.h
+
+/home/pkwon/2014018940/hw12-1/MyVector.h
+iostream
+-
+vector
+-
+
+/home/pkwon/2014018940/hw12-1/MyVector_main.cc
+MyVector.h
+/home/pkwon/2014018940/hw12-1/MyVector.h
+

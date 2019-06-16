@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pkwon/2014018940/hw10-1/print_shape.cc
+print_shape.h
+/home/pkwon/2014018940/hw10-1/print_shape.h
+
+/home/pkwon/2014018940/hw10-1/print_shape.h
+iostream
+-
+vector
+-
+map
+-
+string
+-
+
+/home/pkwon/2014018940/hw10-1/print_shape_main.cc
+print_shape.h
+/home/pkwon/2014018940/hw10-1/print_shape.h
+

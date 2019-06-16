@@ -1,0 +1,3 @@
+Mary:20:2014018940:Algorithm
+Jack:21:2013920193:algorhtm,math,eng,kor
+Kim:23:2013919191:algo,db,math

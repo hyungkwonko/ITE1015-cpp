@@ -1,0 +1,5 @@
+/home/pkwon/2014018940/hw10-1/Build/CMakeFiles/edit_cache.dir
+/home/pkwon/2014018940/hw10-1/Build/CMakeFiles/print_shape.dir
+/home/pkwon/2014018940/hw10-1/Build/CMakeFiles/rebuild_cache.dir
+/home/pkwon/2014018940/hw10-1/Build/CMakeFiles/cast_quiz.dir
+/home/pkwon/2014018940/hw10-1/Build/CMakeFiles/dynamice_cast.dir

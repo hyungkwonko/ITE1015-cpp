@@ -1,0 +1,4 @@
+/home/pkwon/2014018940/hw9-2/Build/CMakeFiles/rebuild_cache.dir
+/home/pkwon/2014018940/hw9-2/Build/CMakeFiles/edit_cache.dir
+/home/pkwon/2014018940/hw9-2/Build/CMakeFiles/draw_shape.dir
+/home/pkwon/2014018940/hw9-2/Build/CMakeFiles/animals_main.dir

@@ -1,0 +1,3 @@
+/home/pkwon/2014018940/hw5-3/Build/CMakeFiles/edit_cache.dir
+/home/pkwon/2014018940/hw5-3/Build/CMakeFiles/rebuild_cache.dir
+/home/pkwon/2014018940/hw5-3/Build/CMakeFiles/magic_square.dir

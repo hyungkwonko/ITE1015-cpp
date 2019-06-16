@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pkwon/2014018940/hw5-3/func.cc
+stdio.h
+-
+iostream
+-
+cstdlib
+-
+ctime
+-
+
+/home/pkwon/2014018940/hw5-3/func.h
+
+/home/pkwon/2014018940/hw5-3/magic_square.cc
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+func.h
+/home/pkwon/2014018940/hw5-3/func.h
+

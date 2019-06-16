@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pkwon/2014018940/hw9-1/classes.cc
+classes.h
+/home/pkwon/2014018940/hw9-1/classes.h
+
+/home/pkwon/2014018940/hw9-1/classes.h
+iostream
+-
+string
+-
+vector
+-
+
+/home/pkwon/2014018940/hw9-1/classes_main.cc
+classes.h
+/home/pkwon/2014018940/hw9-1/classes.h
+

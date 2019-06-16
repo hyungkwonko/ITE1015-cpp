@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pkwon/2014018940/hw10-1/dynamic_cast.cc
+dynamic_cast.h
+/home/pkwon/2014018940/hw10-1/dynamic_cast.h
+
+/home/pkwon/2014018940/hw10-1/dynamic_cast.h
+iostream
+-
+string
+-
+vector
+-
+map
+-
+
+/home/pkwon/2014018940/hw10-1/dynamic_cast_main.cc
+dynamic_cast.h
+/home/pkwon/2014018940/hw10-1/dynamic_cast.h
+

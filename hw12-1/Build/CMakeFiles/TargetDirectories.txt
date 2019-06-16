@@ -1,0 +1,4 @@
+/home/pkwon/2014018940/hw12-1/Build/CMakeFiles/edit_cache.dir
+/home/pkwon/2014018940/hw12-1/Build/CMakeFiles/rebuild_cache.dir
+/home/pkwon/2014018940/hw12-1/Build/CMakeFiles/MyVector.dir
+/home/pkwon/2014018940/hw12-1/Build/CMakeFiles/myswap.dir

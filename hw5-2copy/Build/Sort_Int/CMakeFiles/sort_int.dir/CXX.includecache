@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pkwon/2014018940/hw5-2copy/Sort_Int/sort.cc
+
+/home/pkwon/2014018940/hw5-2copy/Sort_Int/sort.h
+
+/home/pkwon/2014018940/hw5-2copy/Sort_Int/sort_int.cc
+iostream
+-
+sort.h
+/home/pkwon/2014018940/hw5-2copy/Sort_Int/sort.h
+

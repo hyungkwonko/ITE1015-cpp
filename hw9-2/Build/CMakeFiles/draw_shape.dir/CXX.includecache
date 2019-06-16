@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pkwon/2014018940/hw9-2/draw_shape.cc
+draw_shape.h
+/home/pkwon/2014018940/hw9-2/draw_shape.h
+
+/home/pkwon/2014018940/hw9-2/draw_shape.h
+iostream
+-
+string
+-
+map
+-
+vector
+-
+sstream
+-
+
+/home/pkwon/2014018940/hw9-2/draw_shape_main.cc
+draw_shape.h
+/home/pkwon/2014018940/hw9-2/draw_shape.h
+
